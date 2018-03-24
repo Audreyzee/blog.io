@@ -2,13 +2,15 @@
 layout: post
 title: 夜风如此温柔
 date: 2018-3-24
-categories: 诗
-tags: 爱
-description: 
+categories: POEM
+tags: 爱情
+description: 回忆
 ---
 
- 微风吹散了夜色, 
+ 微风吹散了夜色,
+ 
  新月朦胧隐约若现;
+ 
  林荫小道蜿蜒向前, 
  毫不遮掩它与深夜的情愫缠绵;
  路旁孤单的几盏明灯透过森森枝叶, 
