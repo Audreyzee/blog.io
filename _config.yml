@@ -2,7 +2,7 @@
 title: 小米粥 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "“宇宙中的一切都在你体内，向内寻求一切的答案。” ————鲁米"  # 一句话描述你的博客
+description: "宇宙中的一切都在你体内，向内寻求一切的答案"  # 一句话描述你的博客
 baseurl: ""
 url: "http://audreyzee.com"  # 此处填写你的博客地址 
 
@@ -10,7 +10,7 @@ url: "http://audreyzee.com"  # 此处填写你的博客地址
 owner: 
   name: "小米粥" # 填写作者信息：名字
   email: audrey_zee@yahoo.com # 填写作者信息：邮箱
-  bio: "在存在与非存在之间，我在那片空寂的原野上翱翔。————鲁米" # 填写作者信息：博客描述
+  bio: "在存在与非存在之间，我在那片空寂的原野上翱翔。" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
