@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "CARPE DIEM " 
+description: "小米粥小姐 " 
 header-img: "img/black.jpg"
 ---
 
