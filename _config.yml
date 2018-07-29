@@ -1,5 +1,5 @@
 # Site settings
-title: 小米粥 # 你的博客名字，可以定义修订
+title: 小米⁽粥周₎小姐 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: 宇宙中的一切都在你体内，向内寻求一切的答案  # 一句话描述你的博客
@@ -8,7 +8,7 @@ url: http://audreyzee.com  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: 小米粥 # 填写作者信息：名字
+  name: 小米⁽粥周₎小姐 # 填写作者信息：名字
   email: audrey_zee@yahoo.com # 填写作者信息：邮箱
   bio: 在存在与非存在之间，我在那片空寂的原野上翱翔。 # 填写作者信息：博客描述
 
@@ -43,16 +43,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "小米粥" # 你的名字
+      author: "小米⁽粥周₎小姐" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
   duoshuo :
-    short_name : 小米粥 # 填写你的 disqus id
+    short_name : 小米⁽粥周₎小姐 # 填写你的 disqus id
   disqus :
-      short_name : 小米粥 # 填写你的 disqus id
+      short_name : 小米⁽粥周₎小姐 # 填写你的 disqus id
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 小米粥 # 填写你  google_analytics id
