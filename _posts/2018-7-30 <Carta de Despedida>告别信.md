@@ -1,3 +1,15 @@
+---
+
+
+
+           layout: post
+           title: 《告别信》
+           date: 2018-3-31
+           categories: 
+           tags: 
+           description: De Gabriel García Márquez
+
+---
 
 如果有一刹那，上帝忘记我是一只布偶并赋予我片刻生命，
 
