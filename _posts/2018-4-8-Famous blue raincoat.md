@@ -1,8 +1,7 @@
                        
                        
-           There's a crack in everything,
-            that's how the light gets in.
-                ———— Leonard Cohen
+    There's a crack in everything,that's how the light gets in.
+                                    ———— Leonard Cohen
                               
                    莱昂纳德·科恩
                 1934.9.21—2016.11.7
@@ -27,11 +26,17 @@
    
                                                               
     It's four in the morning, the end of December          十二月末凌晨四点
+    
     I'm writing you now just to see if you're better       我在写信给你，想知道你过的好了吗
+   
     New York is cold, but I like where I'm living          纽约很冷了，但我喜欢我住的地方
+   
     There's music on Clinton Street all through the evening在克林顿，街上整晚都有音乐传来
+    
     I hear that you're building                            我听说你正在建造你的小房子
+    
     your little house deep in the desert                   那荒芜深处
+    
     You're living for nothing now                          从此再不为那世事所羁绊
     I hope you're keeping some kind of record.             我希望你仍然保留着某种回忆
     Yes, and Jane came by with a lock of your hair         是啊，简回来了，带着一缕你的头发
