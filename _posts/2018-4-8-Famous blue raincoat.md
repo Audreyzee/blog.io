@@ -1,7 +1,8 @@
                        
                        
-    There's a crack in everything,that's how the light gets in.
-                                    ———— Leonard Cohen
+           There’s a crack in everything,
+            that’s how the light gets in.
+                ———— Leonard Cohen
                               
                    莱昂纳德·科恩
                 1934.9.21—2016.11.7
