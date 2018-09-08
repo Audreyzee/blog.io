@@ -30,7 +30,7 @@
          I am writing you now just to see if you are better       
          New York is cold, but I like where I am living          
          There is music on Clinton Street all through the evening
-         I hear that you're building                            
+         I hear that you are building                            
          your little house deep in the desert                   
          You are living for nothing now                          
          I hope you are keeping some kind of record.             
