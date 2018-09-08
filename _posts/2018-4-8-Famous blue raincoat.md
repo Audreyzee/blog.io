@@ -26,43 +26,83 @@
 
    
                                                               
-    It's four in the morning, the end of December          十二月末凌晨四点
-    I'm writing you now just to see if you're better       我在写信给你，想知道你过的好了吗
-    New York is cold, but I like where I'm living          纽约很冷了，但我喜欢我住的地方
-    There's music on Clinton Street all through the evening在克林顿，街上整晚都有音乐传来
-    I hear that you're building                            我听说你正在建造你的小房子
-    your little house deep in the desert                   那荒芜深处
-    You're living for nothing now                          从此再不为那世事所羁绊
-    I hope you're keeping some kind of record.             我希望你仍然保留着某种回忆
-    Yes, and Jane came by with a lock of your hair         是啊，简回来了，带着一缕你的头发
-    She said that you gave it to her                       她说是那晚你给她的
-    That night that you planned to go clear                你决定释怀了
-    Did you ever go clear?                                 但是你真的做到了吗？
-    Ah, the last time we saw you                           唉，上一次我们见你时
-    you looked so much older                               你看起来苍老了许多
-    Your famous blue raincoat was torn at the shoulder     你那件蓝色雨衣肩上已经破旧
-    You'd been to the station to meet every train          你曾在那个站台守候每一辆过往的列车
-    And you came home without Lili Marlene                 但是你没有带回她
-    And you treated my woman                               却把我的女人
-    to a flake of your life                                变成了你生命中一闪火花
-    And when she came back she was nobody's wife.          当她回来时，她不再是任何人的了
-    Well I see you there with the rose in your teeth       我看见你站在那里，嘴里叼着那只玫瑰
-    One more thin gypsy thief                              像极了又一个瘦骨嶙峋吉普赛骗子
-    Well I see Jane's awake --                             我看到简醒来
-    She sends her regards.                                 她说向你问好
-    And what can I tell you my brother, my killer          我能对你说什么呢，我的兄弟，你这个凶手
-    What can I possibly say?                               我到底能说什么啊？
-    I guess that I miss you,                               我想我是想念你了，
-    I guess I forgive you                                  我原谅你了
-    I'm glad you stood in my way.                          我很庆幸这一路上有你
-    If you ever come by here, for Jane or for me           如果你某天来，不管是为简还是我
-    Your enemy is sleeping, and his woman is free.         你的敌人睡去了，他的女人自由了
-    Yes, and thanks, for the trouble you took from her eyes是的，谢谢你，带走她眼里的忧思
-    I thought it was there for good so I never tried.      我以为那些忧思是会好的，所以我从未尝试
-    And Jane came by with a lock of your hair              简回来了，带着一缕你的头发
-    She said that you gave it to her                       她说是那晚你给她的
-    That night that you planned to go clear                你打算释怀了
+    It's four in the morning, the end of December          
+    I'm writing you now just to see if you're better       
+    New York is cold, but I like where I'm living          
+    There's music on Clinton Street all through the evening
+    I hear that you're building                            
+    your little house deep in the desert                   
+    You're living for nothing now                          
+    I hope you're keeping some kind of record.             
+    Yes, and Jane came by with a lock of your hair         
+    She said that you gave it to her                       
+    That night that you planned to go clear                
+    Did you ever go clear?                                 
+    Ah, the last time we saw you                           
+    you looked so much older                               
+    Your famous blue raincoat was torn at the shoulder     
+    You'd been to the station to meet every train          
+    And you came home without Lili Marlene                 
+    And you treated my woman                               
+    to a flake of your life                               
+    And when she came back she was nobody's wife.          
+    Well I see you there with the rose in your teeth       
+    One more thin gypsy thief                             
+    Well I see Jane's awake --                             
+    She sends her regards.                                 
+    And what can I tell you my brother, my killer         
+    What can I possibly say?                               
+    I guess that I miss you,                               
+    I guess I forgive you                                 
+    I'm glad you stood in my way.                          
+    If you ever come by here, for Jane or for me           
+    Your enemy is sleeping, and his woman is free.         
+    Yes, and thanks, for the trouble you took from her eyes
+    I thought it was there for good so I never tried.      
+    And Jane came by with a lock of your hair              
+    She said that you gave it to her                       
+    That night that you planned to go clear                
 
-    ——sincerely, l. cohen                                     ————你的朋友，莱昂纳德·科恩
-                                                              Translated by 小米粥小姐
+    ——sincerely, l. cohen                                    
+                                                              
+
+    十二月末凌晨四点
+    我在写信给你，想知道你过的好了吗
+    纽约很冷了，但我喜欢我住的地方
+    在克林顿，街上整晚都有音乐传来
+    我听说你正在建造你的小房子
+    那荒芜深处
+    从此再不为那世事所羁绊
+    我希望你仍然保留着某种回忆
+    是啊，简回来了，带着一缕你的头发
+    她说是那晚你给她的
+    你决定释怀了
+    但是你真的做到了吗？
+    唉，上一次我们见你时
+    你看起来苍老了许多
+    你那件蓝色雨衣肩上已经破旧
+    你曾在那个站台守候每一辆过往的列车
+    但是你没有带回她
+    却把我的女人
+    变成了你生命中一闪火花
+    当她回来时，她不再是任何人的了
+    我看见你站在那里，嘴里叼着那只玫瑰
+    像极了又一个瘦骨嶙峋吉普赛骗子
+    我看到简醒了
+    她说向你问好
+    我能对你说什么呢，我的兄弟，你这个凶手
+    我到底能说什么啊？
+    我想我是想念你了，
+    我原谅你了
+    我很庆幸这一路上有你
+    如果你某天来，不管是为简还是我
+    你的敌人睡去了，他的女人自由了
+    是的，谢谢你，带走她眼里的忧思
+    我以为那些忧思是会好的，所以我从未尝试
+    简回来了，带着一缕你的头发
+    她说是那晚你给她的
+    你打算释怀了
+
+    ————你的朋友，莱昂纳德·科恩
+    Translated by 小米粥小姐
 
