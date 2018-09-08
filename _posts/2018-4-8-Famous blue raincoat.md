@@ -32,7 +32,6 @@
     There's music on Clinton Street all through the evening在克林顿，街上整晚都有音乐传来
     I hear that you're building                            我听说你正在建造你的小房子
     your little house deep in the desert                   那荒芜深处
-    
     You're living for nothing now                          从此再不为那世事所羁绊
     I hope you're keeping some kind of record.             我希望你仍然保留着某种回忆
     Yes, and Jane came by with a lock of your hair         是啊，简回来了，带着一缕你的头发
